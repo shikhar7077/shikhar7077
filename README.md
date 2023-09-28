@@ -1,6 +1,6 @@
--  Hi, I’m @shikhar7077
+-  Hi, I’m Shivam
 -  I’m interested in Data.
--  I’m currently learning related to  data.
+-  I’m currently learning related to data.
 -  I’m looking to collaborate on data engineer.
 -  How to reach me    email- kharatshivus@gmail.com 
                         LinkedIn- https://www.linkedin.com/in/shivam-kharat-915072228
